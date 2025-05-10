@@ -15,4 +15,4 @@ else:
     nombre_formateado = "Opción no válida"
 
 # Mostrar el resultado
-print(f"Nombre transformado: {nombre_formateado}")
+print(f"Nombre transformado: {nombre_formateado}") 
